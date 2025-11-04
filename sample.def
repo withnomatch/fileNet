@@ -1,0 +1,15 @@
+{
+  "header": {
+    "version": "DEF-v1",
+    "timestamp": 1762226487,
+    "shard_index": 0,
+    "shard_count": 1,
+    "eph_pub": "VwG8HdBDQFT98yGRDxL+T2tlVj7EfrjuWlNxnvXGvnE=",
+    "wrap_nonce": "q9eWahx6ncLfjOyS",
+    "enc_nonce": "OnDQCgdndACbpuCw"
+  },
+  "ciphertext": "NZitKEpBOAUPyTpatiefN/QPypGeZTYkuNWonMGowdUEyHeP9DsEEEZbsyU0NbX16TRrqktbzXg29FgIUp8zhlkFmMRrKjLB8HXY9k/TZM2u/ZQBFdWMJCrPosKbhxtN/uuGXdwCZ47Sb01y5gTcwjDx0tYjqwXPjwfFZPvzYxiTexqcAqSjEdF6pICiDQBVhPhKh84YIWGDZM0pF1MKr99X7gZKTDiAlYbs3/Y7GlJYRWXIY1Dbup0TnMcRwKPgLphShJlt7aMKElyELNBYUS1d0hntnRHh0Cv12QWNLFWol3Zvq9KvgPP92dePmN2dL7iKYrJ1LZzW78vidO0r5w82/jVamDUmNgxf7BsyyRHkdwvtk1CHBt19e7vj+7cnAr45/m5mZNSYM+IYm9gX9AFflZT+wwZAbPum+2x8kxVvrkZZg7eu/xWW4Gr7hNpRaCPL6S6mG9xOvDf5134ETDL/XTezKQ/Pa85KvgN7YenJFHSM7pbkvoVqhcHbR0OF0laNirqFWXW2gi+AIg==",
+  "wrapped_sym": "1deRqpOHIqtaRcOwfesyeXdyK6oGQmnes7JOouZGrAGEBRfIUE477sWwk0+Khg6n",
+  "signature": "rMtDQKy4nAZnYkb98mJVpeZe2f11bNqo3YXE5OMkWkj68mEuqEZZwR2iBtaltaCbi2iFLbr8DlV/+rpwZCw+Ag==",
+  "sender_sign_pub": "b2G/QnQMOynp2Wlh1jufihvXiJQP8qK3Y8Cscbpc56k="
+}
