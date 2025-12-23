@@ -1,0 +1,12 @@
+[
+  {
+    "pid": "P5GR9WnpmqWJdSbCWLZ_wQ",
+    "url": "https://raw.githubusercontent.com/withnomatch/fileNet/main/data/01/P5GR9WnpmqWJdSbCWLZ_wQ.enc",
+    "receivers": [
+      "receiver_B",
+      "receiver_C"
+    ],
+    "ts": 1766467799,
+    "exp": 1767072599
+  }
+]
